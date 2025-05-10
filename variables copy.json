@@ -1,0 +1,44 @@
+{
+    "variables": [
+        { 
+            "variableName": "LMT.Output.MissionState",
+            "defaultValue": "NM"
+        },
+        { 
+            "variableName": "LMT.Output.MissionID",
+            "defaultValue": "3"
+        },
+        { 
+            "variableName": "LMT.Output.CurrentStationID",
+            "defaultValue": "1"
+        },
+        { 
+            "variableName": "LMT.Output.CurrentStationName",
+            "defaultValue": "Brossard"
+        },
+        { 
+            "variableName": "LMT.Output.NextStationID",
+            "defaultValue": "2"
+        },
+        { 
+            "variableName": "LMT.Output.NextStationName",
+            "defaultValue": "Du Quartier"
+        },
+        { 
+            "variableName": "LMT.Output.OriginStationID",
+            "defaultValue": "1"
+        },
+        { 
+            "variableName": "LMT.Output.DestinationStationID",
+            "defaultValue": "6"
+        },
+        { 
+            "variableName": "LMT.Output.DestinationStationName",
+            "defaultValue": "Gare Centrale"
+        },
+        { 
+            "variableName": "LMT.Output.LineName",
+            "defaultValue": "A1"
+        }
+    ]
+}

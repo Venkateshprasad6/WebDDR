@@ -1,0 +1,54 @@
+{
+    "stations": [
+        {
+            "Station": {
+                "@id": "1",
+                "Name": "Brossard"
+            }
+        },
+        {
+            "Station": {
+                "@id": "2",
+                "Name": "Du Quartier"
+            }
+        },
+        {
+            "Station": {
+                "@id": "3",
+                "Name": "Panama"
+            }
+        },
+        {
+            "Station": {
+                "@id": "4",
+                "Name": "Île-des-sœurs"
+            }
+        },
+        {
+            "Station": {
+                "@id": "5",
+                "Name": "Griffintown-Bernard-Landry"
+            }
+        },
+        {
+            "Station": {
+                "@id": "6",
+                "Name": "Gare Centrale"
+            }
+        }
+    ],
+    "missions": [
+        {           
+            "Mission": {
+                "@id": "1",
+                "StationId": ["1", "2", "3", "4", "6"]
+            }
+        },
+        {    
+            "Mission": {       
+                "@id": "2",
+                "StationId": ["6", "4", "3", "2", "1"]
+            }
+        }
+    ]
+}

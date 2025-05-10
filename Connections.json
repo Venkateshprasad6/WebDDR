@@ -1,0 +1,32 @@
+[
+    {
+        "Station": {
+            "@id":"6",
+            "Connection":[
+                {"@type":"MetroSTM","Name":"Ligne2"},
+				{"@type":"TrainEXO","Name":"Ligne13"},
+				{"@type":"TrainVIA","Name":"TrainVIA"}
+            ]
+        }
+    }, {
+        "Station": {
+            "@id":"7",
+            "Connection":{"@type":"MetroSTM","Name":"Ligne1"}
+        }
+    }, {
+        "Station": {
+            "@id":"8",
+            "Connection":{"@type":"MetroSTM","Name":"Ligne5"}
+        }
+    }, {
+        "Station": {
+            "@id":"11",
+            "Connection":{"@type":"TrainEXO","Name":"Ligne15"}
+        }
+    }, {
+        "Station": {
+            "@id":"26",
+            "Connection":{"@type":"Airport","Name":"Airport"}
+        }
+    }
+]

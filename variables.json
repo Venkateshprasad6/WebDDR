@@ -1,0 +1,127 @@
+{
+  "variables": [
+    {
+      "variableName": "LMT.Output.MissionState",
+      "defaultValue": "MI"
+    },
+    {
+      "variableName": "LMT.Output.MissionID",
+      "defaultValue": "1"
+    },
+    {
+      "variableName": "LMT.Output.CurrentStationID",
+      "defaultValue": "1"
+    },
+    {
+      "variableName": "LMT.Output.NextStationID",
+      "defaultValue": "2"
+    },
+    {
+      "variableName": "LMT.Output.OriginStationID",
+      "defaultValue": "1"
+    },
+    {
+      "variableName": "LMT.Output.DestinationStationID",
+      "defaultValue": "6"
+    },
+    {
+      "variableName": "UMC_CDoorOpSideRight",
+      "defaultValue": true
+    },
+    {
+      "variableName": "UMC_CDoorOpSideLeft",
+      "defaultValue": true
+    },
+    {
+      "variableName": "PIS.Input.MessagePlayerEvent",
+      "defaultValue": "21;2;10;1;"
+    },
+    {
+      "variableName": "TCMS.Train_Number",
+      "defaultValue": "11001KG"
+    },
+    {
+      "variableName": "LMT.Output.CurrentStationShortName",
+      "defaultValue": "PORUR"
+    },
+
+    {
+      "variableName": "LMT.Output.NextStationShortName",
+      "defaultValue": "LIGHT HOUSE"
+    },
+
+    {
+      "variableName": "LMT.Output.NextStationName",
+      "defaultValue": "Røyken"
+    },
+    {
+      "variableName": "LMT.Output.NextSkipStationName",
+      "defaultValue": "Røyken"
+    },
+    {
+      "variableName": "LMT.Output.LineName",
+      "defaultValue": "L1 Spikkestad-Asker-Oslo S-Lillestrøm"
+    },
+    {
+      "variableName": "Class72.PIS.ConsistConfigRequest",
+      "defaultValue": "3"
+    },
+    {
+      "variableName": "Class72.PIS.LED.CheckerTest",
+      "defaultValue": false
+    },
+    {
+      "variableName": "Class72.PIS.LED.VerticalBarTest",
+      "defaultValue": false
+    },
+    {
+      "variableName": "Class72.PIS.LCD.TestImage",
+      "defaultValue": false
+    },
+    {
+      "variableName": "PAS.SelfTestCmd",
+      "defaultValue": false
+    },
+    {
+      "variableName": "PAS.AudioTestCmd",
+      "defaultValue": false
+    },
+    {
+      "variableName": "LMT.Input.Door.Locked",
+      "defaultValue": true
+    },
+    {
+      "variableName": "LMT.Input.Door.Opened",
+      "defaultValue": false
+    },
+    {
+      "variableName": "CLASS72.PAS.CrewToCabActive",
+      "defaultValue": false
+    },
+    {
+      "variableName": "Class72.PAS.PADriverActive",
+      "defaultValue": false
+    },
+    {
+      "variableName": "Class72.PAS.PARadioActive",
+      "defaultValue": false
+    },
+    {
+      "variableName": "Class72.PAS.PTTPressed",
+      "defaultValue": true
+    },
+    {
+      "variableName": "HMI_CDoorOpenSideLeft",
+      "defaultValue": false
+    },
+
+    {
+      "variableName": "HMI_CDoorOpenSideRight",
+      "defaultValue": false
+    },
+    {
+      "variableName": "HMI_CStationTriggerCodeID",
+      "defaultValue": false
+    }
+  ]
+}
